@@ -1,6 +1,7 @@
 class HelloWorld:
     def say_hello(self):
         print("Hello Sunil!")
+        print("Hello from GitHub again!")
 
 
 def main():
